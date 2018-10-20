@@ -1,0 +1,50 @@
+	div.form-cantainer{
+			width:		400px;
+			margin: 	0 auto;
+		}
+
+		button.right{
+			width:		100%;
+		}
+
+		span.question{
+			color:		grey;
+		}
+
+		a.right{
+			float: 		right;
+		}
+
+		h1.title{
+			color:		#33ccff;
+		}
+
+		div.table-container{
+			width:		800px;
+			margin:		0 auto;
+		}
+
+		div.errorBlock{
+			margin: 	0 auto;
+			width:		500px;
+			height: 	auto;
+		}
+
+		p.error404{
+			margin: 	10px;
+			text-align: center;
+			font-size:	60px;
+		}
+
+		img.error404Image{
+			display: 	block;
+			margin: 	auto;
+			width:		300px;
+			height: 	auto;
+		}
+
+		p.error404Text{
+			margin: 	10px;
+			text-align: center;
+			font-size:	40px;
+		}
